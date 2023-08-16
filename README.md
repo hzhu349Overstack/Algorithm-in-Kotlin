@@ -7,20 +7,13 @@
 - **What**
 
 1. 数据结构与算法
-2. 手写 javascript 代码
-3. LeetCode 之旅
+2. LeetCode 之旅
 
 - **Why**
 
 1. for 思维，for 进阶，for 职业
 2. 看看自己到底还有多少潜能，死磕自己
 3. 刚面试完，failed很sb,于是决定从新刷题，看看能不能去🐶
-
-- **How**
-
-1. 第一阶段，重新熟悉常见数据结构，死磕数据结构与算法
-2. 第二阶段，手写 javascript 代码
-3. 第三阶段，LeetCode 之旅
 
 ## STEP
 
