@@ -13,7 +13,6 @@
 
 1. for 思维，for 进阶，for 职业
 2. 看看自己到底还有多少潜能，死磕自己
-3. 刚面试完，failed很sb,被hm diss了。不要让挫折击败你。
 
 ## STEP
 
@@ -49,6 +48,7 @@
       8. [区间型动态规划](./algorithm/md/13.md)
     - 回溯算法
     - 穷举法
+    - 前缀和 （一维 和二维）
 
 - **[阶段二：手写 javascript 代码](./handwriting)**
 
