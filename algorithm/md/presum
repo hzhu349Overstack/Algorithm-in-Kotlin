@@ -1,0 +1,14 @@
+关键词： array, matrix, subarray, sum
+一维前缀和的定义和计算
+二维前缀和的定义和计算
+‘’‘
+    private fun calculatePrefix(){
+
+        for( i in 1 until matrix.size + 1){
+            for( j in 1 until matrix.first().size + 1){
+                prefix[i][j] = prefix[i -1][j] + prefix[i][j -1] - prefix[i -1][j - 1] + matrix[i - 1][j - 1] 
+            }
+        }
+
+    }
+’‘’
