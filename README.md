@@ -5,14 +5,10 @@
 ## WWH
 
 - **What**
-
 1. 数据结构与算法
-2. LeetCode 之旅
 
 - **Why**
-
 1. for 思维，for 进阶，for 职业
-2. 看看自己到底还有多少潜能，死磕自己
 
 ## STEP
 
@@ -49,7 +45,5 @@
     - 回溯算法
     - 穷举法
     - 前缀和 （一维 和二维）
-
-- **[阶段二：手写 javascript 代码](./handwriting)**
-
-- **[阶段三：LeetCode](./leetcode)**
+    - 二分
+    - Union Find
