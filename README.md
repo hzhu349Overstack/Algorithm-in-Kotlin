@@ -46,4 +46,5 @@
     - 穷举法
     - 前缀和 （一维 和二维）
     - 二分
-    - Union Find
+    - [Union Find](./algorithm/md/14.md)
+    - 
