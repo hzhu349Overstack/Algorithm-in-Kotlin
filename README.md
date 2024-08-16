@@ -44,7 +44,7 @@
       8. [区间型动态规划](./algorithm/md/13.md)
     - 回溯算法
     - 穷举法
-    - 前缀和 （一维 和二维）
+    - [前缀和 （一维 和二维)](./algorithm/md/15.md)
     - 二分
-    - [Union Find](./algorithm/md/14.md)
+    - [Union Find](./algorithm/md/15.md)
     - 
